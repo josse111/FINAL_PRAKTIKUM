@@ -772,7 +772,7 @@ Fitur yang sudah berjalan:
 
 ## 👨‍💻 Developed By
 
-<img src="https://img.shields.io/badge/Aflah%20Athallah-Fullstack%20Web%20Developer-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/zaki%20Athallah-Fullstack%20Web%20Developer-blueviolet?style=for-the-badge" />
 
 <br><br>
 
