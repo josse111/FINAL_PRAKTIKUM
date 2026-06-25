@@ -32,8 +32,8 @@
 
 | Information      | Detail                                    |
 | ---------------- | ----------------------------------------- |
-| **Name**         | Aflah Athallah                            |
-| **Student ID**   | 312410280                                 |
+| **Name**         | zaki fauzan akhbari                       |
+| **Student ID**   | 312410348                                 |
 | **Course**       | Pemrograman Web 2                         |
 | **Assignment**   | Ujian Akhir Semester (UAS) - Proyek Akhir |
 | **Project**      | Sistem Manajemen Inventaris Barang        |
